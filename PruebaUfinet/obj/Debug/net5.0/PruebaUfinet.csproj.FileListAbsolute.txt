@@ -1,0 +1,72 @@
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\appsettings.json
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.exe
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.deps.json
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.runtimeconfig.json
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.runtimeconfig.dev.json
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\ref\PruebaUfinet.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.pdb
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Dapper.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.csproj.AssemblyReference.cache
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.AssemblyInfoInputs.cache
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.AssemblyInfo.cs
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.csproj.CoreCompileInputs.cache
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\staticwebassets\PruebaUfinet.StaticWebAssets.Manifest.cache
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\staticwebassets\PruebaUfinet.StaticWebAssets.xml
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\scopedcss\bundle\PruebaUfinet.styles.css
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.RazorTargetAssemblyInfo.cache
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.csproj.CopyComplete
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\ref\PruebaUfinet.dll
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.pdb
+C:\Users\maoba\source\repos\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.genruntimeconfig.cache
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\appsettings.json
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.StaticWebAssets.xml
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.exe
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.deps.json
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.runtimeconfig.json
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.runtimeconfig.dev.json
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\PruebaUfinet.pdb
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Dapper.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.csproj.AssemblyReference.cache
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.AssemblyInfoInputs.cache
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.AssemblyInfo.cs
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.csproj.CoreCompileInputs.cache
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\scopedcss\bundle\PruebaUfinet.styles.css
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\staticwebassets\PruebaUfinet.StaticWebAssets.Manifest.cache
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.RazorTargetAssemblyInfo.cache
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.csproj.CopyComplete
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\refint\PruebaUfinet.dll
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.pdb
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\PruebaUfinet.genruntimeconfig.cache
+C:\Users\maoba\Downloads\Nueva carpeta\PruebaUfinet\PruebaUfinet\obj\Debug\net5.0\ref\PruebaUfinet.dll
